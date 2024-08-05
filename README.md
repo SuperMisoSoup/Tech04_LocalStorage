@@ -11,7 +11,7 @@
 
 ## ③DEMO
 
-https://docomo-tech-tkn.sakura.ne.jp/04_LocalStorage/masterlogin.htm
+https://docomo-tech-tkn.sakura.ne.jp/04_LocalStorage/masterlogin.html
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
