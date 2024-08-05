@@ -1,0 +1,95 @@
+body{
+    margin:0;
+    padding:0;
+    text-align:left;
+    font-size: 20px;
+    width:100%;
+}
+header{
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+h1{
+    font-size: 100%;
+}
+main{
+    width:100%;
+    display: block;
+    border-bottom:1px solid #ccc;
+    position:relative;
+}
+footer{
+    background-color: #fff;
+    border-bottom:1px solid #ccc;
+    text-align: center;
+}
+p{
+    font-size:200%;
+    text-align: center;
+    border-bottom:1px solid #fff;
+    height:200px;
+}
+table{
+    margin: 3% auto;
+    border:1px solid #8dc3f5;
+    width: 85%;
+}
+th{
+    background-color:#d0e7fc;
+    border-bottom: 1px solid #8dc3f5;
+}
+td{
+    background-color:rgb(241, 239, 239);
+    border-bottom: 1px solid #8dc3f5;
+}
+
+/* ----------------------------------------- */
+.input_area{
+    width: 85%;
+    margin: auto;
+    background-color:rgb(241, 239, 239);
+    box-shadow: 3px 3px 3px 3px #555;
+}
+dl{
+    margin: 30px;
+}
+.input_box dt {
+  float: left;
+  width: 40%;
+}
+.input_box dd::before {
+  content: "：";
+  width: 60%;
+}
+
+.button{
+    display: flex;
+    margin: auto;
+}
+
+#addbutton{
+    margin: auto;
+    text-align: center;
+    padding: 0;
+    background-color: #e1efff;
+    border: 1px solid #000000;
+    width:30%;
+}
+#delbutton{
+    margin: auto;
+    text-align: center;
+    padding: 0;
+    background-color: #e1efff;
+    border: 1px solid #000000;
+    width:30%;
+}
+
+#logbutton{
+    margin: auto;
+    text-align: center;
+    padding: 0;
+    background-color: #e1efff;
+    border: 1px solid #000000;
+    width:20%;
+}
